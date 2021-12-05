@@ -3,6 +3,7 @@ title: The Valkyrie
 writer: Richard Wagner
 short-introduction: Family feuds can destroy worlds.
 drama-url: https://en.wikipedia.org/wiki/Die_Walk%C3%BCre
+writer-url: https://en.wikipedia.org/wiki/Richard_Wagner
 running-time: 5hrs
 performace-date: 07 10 Dec
 performance-place: English National Opera, London Coliseum, St Martin’s Lane, London WC2N 4ES

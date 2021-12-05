@@ -2,6 +2,8 @@
 title: Madam Butterfly
 writer: Giacomo Puccini
 short-introduction: A tender kiss can conceal the hardest of hearts. Puccini’s famous opera is one of London’s must see events this spring.
+drama-url: https://en.wikipedia.org/wiki/Madama_Butterfly
+writer-url: https://en.wikipedia.org/wiki/Giacomo_Puccini
 running-time: 3hrs 00mins
 performace-date: 20 Mar 2020
 performance-place: English National Opera, London Coliseum, St Martin’s Lane, London WC2N 4ES

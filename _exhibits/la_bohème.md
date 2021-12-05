@@ -2,6 +2,8 @@
 title: La bohème
 writer: Giacomo Puccini
 short-introduction: Mimì and Rodolfo's passion burns with a brilliant flame. In a city of lights, can love eclipse Death itself?
+drama-url: https://en.wikipedia.org/wiki/La_boh%C3%A8me
+writer-url: https://en.wikipedia.org/wiki/Giacomo_Puccini
 running-time: 2hrs 10mins
 performace-date: 31 Jan–27 Feb 2022
 performance-place: English National Opera, London Coliseum, St Martin’s Lane, London WC2N 4ES
